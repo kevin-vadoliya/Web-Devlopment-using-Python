@@ -98,20 +98,7 @@ for e in [Manager(), Developer()]:
 -   🧩 **Abstract Class:** `Employee` defines a common rule using
     `@abstractmethod`.
 
-## ✅ Advantages
 
--   ♻️ Reusable code
--   📖 Better readability
--   🔧 Easy maintenance
--   📈 Scalable applications
-
-## 🚀 Applications
-
--   Employee Management
--   Student Management
--   Banking System
--   Hospital System
--   Web Applications
 
 ## 🏁 Result
 
