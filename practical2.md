@@ -20,6 +20,8 @@ organization
 Polymorphism means **one interface, many forms**. The same method
 behaves differently for different objects.
 
+---
+
 ### Abstract Class
 
 An abstract class cannot be instantiated directly. It is created using
