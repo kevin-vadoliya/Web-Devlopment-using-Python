@@ -73,7 +73,4 @@ Manager Salary = ₹70,000
 Developer Salary = ₹50,000
 ```
 
-## Result
 
-The concepts of **Inheritance, Polymorphism and Abstract Classes** were
-successfully implemented and understood using Python.
