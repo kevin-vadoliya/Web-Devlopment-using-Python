@@ -73,14 +73,22 @@ Manager Salary = ₹70,000
 Developer Salary = ₹50,000
 ```
 
-Explanation
+# Explanation
+
 Inheritance
+
 Person is the parent class.
 Student inherits the display() method from Person.
+
 Polymorphism
+
 Both Manager and Developer implement the same salary() method.
 Different outputs are produced depending on the object.
+
 Abstract Class
+
 Employee is an abstract class.
 It contains the abstract method salary().
 Manager and Developer must implement the salary() method.
+
+---
