@@ -1,5 +1,4 @@
 # OOP: Inheritance, Polymorphism and Abstract Classes
----
 
 ## Objective
 
