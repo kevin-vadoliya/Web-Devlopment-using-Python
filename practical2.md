@@ -15,6 +15,8 @@ of a parent class.
 **Advantages** - Code reusability - Easy maintenance - Better
 organization
 
+---
+
 ### Polymorphism
 
 Polymorphism means **one interface, many forms**. The same method
@@ -26,6 +28,8 @@ behaves differently for different objects.
 
 An abstract class cannot be instantiated directly. It is created using
 Python's `abc` module.
+
+---
 
 ## Python Program
 
