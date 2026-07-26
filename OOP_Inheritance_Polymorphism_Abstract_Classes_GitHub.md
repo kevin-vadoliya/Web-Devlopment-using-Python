@@ -98,9 +98,3 @@ for e in [Manager(), Developer()]:
 -   🧩 **Abstract Class:** `Employee` defines a common rule using
     `@abstractmethod`.
 
-
-
-## 🏁 Result
-
-Successfully implemented and understood **Inheritance, Polymorphism, and
-Abstract Classes** using Python.
