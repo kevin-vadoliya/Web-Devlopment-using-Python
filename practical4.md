@@ -94,11 +94,7 @@ This project demonstrates how to:
 7. Close the database connection.
 
 <img width="1600" height="863" alt="image" src="https://github.com/user-attachments/assets/b3b04531-baee-4638-a94d-f7f509f04bd4" />
----
+
 <img width="1600" height="863" alt="image" src="https://github.com/user-attachments/assets/c178adcb-d71c-40d1-8dc2-56789b2c33a5" />
----
+
 <img width="1600" height="863" alt="image" src="https://github.com/user-attachments/assets/62f533c4-ff7d-4031-b26b-5f33f5411d7c" />
----
-
-
-
