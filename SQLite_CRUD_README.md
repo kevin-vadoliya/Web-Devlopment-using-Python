@@ -92,5 +92,3 @@ This project demonstrates how to:
 5. Update student records.
 6. Delete student records.
 7. Close the database connection.
-
-This is a basic example of using **SQLite with Python for CRUD operations**.
