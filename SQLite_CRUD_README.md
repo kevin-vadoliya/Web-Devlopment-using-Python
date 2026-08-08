@@ -21,7 +21,7 @@ course TEXT
 cursor.execute("""
 INSERT INTO students (name, age, course)
 VALUES (?, ?, ?)
-""", ("Kevin", 18, "Computer Engineering"))
+""", ("Kevin", 21, "Computer Science & Engineering"))
 
 conn.commit()
 
